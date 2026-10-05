@@ -1,0 +1,3 @@
+conda [workspace]
+resolver = "2"
+members = ["hello", "hellolib"]
